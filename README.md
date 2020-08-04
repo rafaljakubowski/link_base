@@ -11,3 +11,7 @@ https://github.com/Malayke/ripple20-poc
 
 https://github.com/TheSysOwner/FingerPrinting-Ripple20
 
+
+## Useful stuff ##
+
+Insomnia: https://insomnia.rest/
