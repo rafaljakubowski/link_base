@@ -15,4 +15,5 @@ https://github.com/TheSysOwner/FingerPrinting-Ripple20
 ## Useful stuff ##
 
 Insomnia: https://insomnia.rest/
+
 Manager installation & config: https://nxlog.co/documentation/nxlog-user-guide/manager-installation.html
