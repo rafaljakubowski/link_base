@@ -17,3 +17,5 @@ https://github.com/TheSysOwner/FingerPrinting-Ripple20
 Insomnia: https://insomnia.rest/
 
 Manager installation & config: https://nxlog.co/documentation/nxlog-user-guide/manager-installation.html
+
+Drawing diagrams with Python: https://github.com/mingrammer/diagrams
